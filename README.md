@@ -1,4 +1,4 @@
-👋🏾 Hi, this is Weiting 劉威廷, an active, passionate Software Engineer, I am waiting for your connection!
+👋🏾 Hi, this is Weiting 劉威廷, an active, passionate Software Engineer, I am **waiting** for your connection!
 
 🇹🇼 You can find me on software engineering learning instagram account [@coding_den_](https://www.instagram.com/coding_den_/profilecard/)
 
