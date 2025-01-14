@@ -4,6 +4,11 @@
 
 #### Welcome to <a href='https://lu-weiting.github.io/'>My Website</a> 👈
 
+<p align='left'>
+  📫 How to reach me: <a href='mailto:runeeld23@gmail.com'>runeeld23@gmail.com</a><br/><br/>
+  <a href='https://www.linkedin.com/in/weiting-liou-91552b274/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
 💼 **Experience**
 
 1. One of the Founders & PM & Backend engineer in @[DengTa](https://github.com/DengtaTech)
@@ -25,9 +30,3 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,fastapi,react,mysql,redis)](https://skillicons.dev)
-
-
-<p align='left'>
-  📫 How to reach me: <a href='mailto:runeeld23@gmail.com'>runeeld23@gmail.com</a><br/><br/>
-  <a href='https://www.linkedin.com/in/weiting-liou-91552b274/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
