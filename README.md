@@ -8,16 +8,18 @@
 
 1. One of the Founders & PM & Backend engineer in @[DengTa](https://github.com/DengtaTech)
 2. Software Engineer intern in @[CeranaStudio](https://cerana.tech/)
-3. Backend Software Engineer in @[NCCUPASS](https://nccupass.com/)
-4. Programming Mentor @Self-Employed
+3. Research Assistant, Software Engineering Laboratory in NCCU Department of Computer Science
+4. Backend Software Engineer in @[NCCUPASS](https://nccupass.com/)
 5. Full-satck Software Engineer Trainee in @[AiWorks](https://aiworks.tw/)
+6. Programming Mentor @Self-Employed
 
 **🔬 Awards**
 
-1. 🥇 3st place winner @[2024 Digital Intelligence Innovation Competition](https://www.digiwin.com/tw/dsc/digiGame/2024/index.html#%23intro)
-2. 🥇 3st place winner @[2024 雅典娜杯兩岸青年創新創業大賽](https://www.digiwin.com/other/cxcy2/)
-3. Finalist in @2024 National Taiwan Normal University Sixth Annual Startup Arena
-4. Finalist in @2024第29屆大專校院資訊應用服務創新競賽 Innoserve
+1. 🥇 2st place winner @[政治大學資訊管理系110級畢業專題發表會](https://mis2.nccu.edu.tw/zh_tw/Announcement/A09/113-12-09-%E4%B8%80-110%E7%B4%9A%E7%95%A2%E6%A5%AD%E5%B0%88%E9%A1%8C%E7%99%BC%E8%A1%A8%E6%9C%83%E5%BE%97%E7%8D%8E%E5%90%8D%E5%96%AE-15365347)
+2. 🥇 3st place winner @[2024 Digital Intelligence Innovation Competition](https://www.digiwin.com/tw/dsc/digiGame/2024/index.html#%23intro)
+3. 🥇 3st place winner @[2024 雅典娜杯兩岸青年創新創業大賽](https://www.digiwin.com/other/cxcy2/)
+4. Finalist in @2024 National Taiwan Normal University Sixth Annual Startup Arena
+5. Finalist in @2024第29屆大專校院資訊應用服務創新競賽 Innoserve
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,nginx,rabbitmq,githubactions)](https://skillicons.dev)
 
